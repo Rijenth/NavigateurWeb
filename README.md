@@ -4,7 +4,7 @@
 Afin d'améliorer mes compétences en POO et en C#, j'ai réalisé ce programme permettant d'effectuer les taches les plus basiques d'un navigateur web.
 
 ### Lancer le projet
-Telecharger le projet, puis lancer l'application depuis le fichier "Navigateur"
+Telecharger le projet, puis lancer l'application depuis le fichier "Navigateur" présent dans le chemin d'accès suivant : \Navigateur\bin\Release\net6.0-windows
 
 # Résumé du projet
 
